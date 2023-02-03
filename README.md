@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Kimngeunhye
-- 👀 I’m interested in front(e.g. React App, create website) And Secure
+- 👀 I’m interested in front(e.g. React App, create website) And Secure, in addition used interested assembly of machine parts
 - 🌱 I’m currently learning Secure CS && Develop
-- 💞️ I’m looking to collaborate on ...
+- 💞️ I’m looking to collaborate on HW
 - 📫 How to reach me send email -> kittus030709@naver.com
 
 <!---
