@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Kimngeunhye
+- 👋 Hi, I’m Kimgrace
 - 👀 I’m interested in front(e.g. React App, create website) And Secure
 - 🌱 I’m currently learning Secure CS && Develop
 - 💞️ I’m looking to collaborate on HW
