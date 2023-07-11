@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Kimgrace
-- 👀 I’m interested in front(e.g. React App, create website) And Secure
-- 🌱 I’m currently learning Secure CS && Develop
-- 💞️ I’m looking to collaborate on HW
+- 👀 I’m interested in backend(Spring, Firebase, MongoDB) front(Web) And Secure
+- 🌱 I’m currently learning Backend && Secure && CS
+- 💞️ I’m looking to collaborate on HW(Enbeded)
 - 📫 How to reach me send email -> kittus030709@gmail.com
 - <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
 - <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/></a>
