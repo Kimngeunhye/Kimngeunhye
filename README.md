@@ -23,7 +23,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/7Zip-000000?style=for-the-badge&logo=7Zip&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/Firefox Browser-FF7139?style=for-the-badge&logo=Firefox Browser&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/FirefoxBrowser-FF7139?style=for-the-badge&logo=FirefoxBrowser&logoColor=white"/></a>
 </div>
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1d125cf1-366f-44c8-91b5-f2e964489160/deploy-status)](https://app.netlify.com/sites/stately-meerkat-704bcc/deploys)
