@@ -19,6 +19,12 @@
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
 </div>
 
+### AI
+<div align="center">
+    <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black"/></a>
+    <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=AMD&logoColor=black"/></a>
+    
+</div>
 ### DevOps
 <div align="center">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
