@@ -17,6 +17,7 @@
   <img src="https://img.shields.io/badge/Spring-CDD2FF?style=for-the-badge&logo=Spring&logoColor=#6DB33F"/></a>
   <img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"></a>
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/SpringSecurity-6DB33F?style=for-the-badge&logo=SpringSecurity&logoColor=white"/></a>
 </div>
 
 ### AI
