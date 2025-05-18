@@ -10,6 +10,9 @@
 - <img src="https://img.shields.io/badge/Spring-CDD2FF?style=for-the-badge&logo=Spring&logoColor=#6DB33F"/></a>
 - <img src="https://img.shields.io/badge/ts-node-3178C6?style=for-the-badge&logo=ts-node&logoColor=white"></a>
 - <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white"/></a>
+- <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white"/></a>
+
+
 
 [![Netlify Status](https://api.netlify.com/api/v1/badges/1d125cf1-366f-44c8-91b5-f2e964489160/deploy-status)](https://app.netlify.com/sites/stately-meerkat-704bcc/deploys)
 <!---
