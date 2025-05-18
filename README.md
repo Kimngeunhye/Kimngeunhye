@@ -1,9 +1,13 @@
+# Introduce My Self
+## About me
 - 👋 Hi, I’m Kimgrace
 - 👀 I’m interested in backend(Spring, Firebase, MongoDB) front(Web) And Secure
 - 🌱 I’m currently learning Backend && Secure && CS
 - 💞️ I’m looking to collaborate on HW(Enbeded)
 - 📫 How to reach me send email -> kittus030709@gmail.com
+- ❤️ Training for programming
 
+## What's learning?  
 ### SW STACK
 <div align="center">
 <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
