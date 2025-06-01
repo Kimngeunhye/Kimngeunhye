@@ -15,6 +15,8 @@
 <img src="https://img.shields.io/badge/HTML5-000000?style=for-the-badge&logo=HTML5&logoColor=#E34F26"/></a>
 <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=C&logoColor=#A8B9CC"/></a>
 <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=JavaScript&logoColor=#F7DF1E"/></a>
+<img src="https://img.shields.io/badge/Jupyter-000000?style=for-the-badge&logo=Jupyter&logoColor=#F37626"/></a>
+
 </div>
 
 ### BACKEND STACK
@@ -30,6 +32,7 @@
 <div align="center">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black"/></a>
     <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=AMD&logoColor=black"/></a>   
+    <img src="https://img.shields.io/badge/PyTorch?style=for-the-badge&logo=PyTorch&logoColor=#EE4C2C"/></a>
 </div>
 
 ### DevOps
