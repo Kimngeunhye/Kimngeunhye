@@ -32,7 +32,6 @@
 <div align="center">
     <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=TensorFlow&logoColor=black"/></a>
     <img src="https://img.shields.io/badge/AMD-ED1C24?style=for-the-badge&logo=AMD&logoColor=black"/></a>   
-    <img src="https://img.shields.io/badge/PyTorch?style=for-the-badge&logo=PyTorch&logoColor=#EE4C2C"/></a>
 </div>
 
 ### DevOps
